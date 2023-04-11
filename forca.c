@@ -55,6 +55,8 @@ void abertura() {
 	printf("/****************/\n");
 	printf("/ Jogo de Forca */\n");
 	printf("/****************/\n\n");
+	
+	printf("OBS:LETRAS MAIUCULAS\n");
 }
 
 void chuta() {
